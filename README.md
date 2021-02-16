@@ -1,0 +1,4 @@
+- 👋 Hi, I’m arqez
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate on discord related projects
+- 📫 You can reach me through discord @ arqez#0002 or through email @ arqez.inc@gmail.com
